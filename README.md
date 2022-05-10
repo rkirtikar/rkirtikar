@@ -1,17 +1,17 @@
 ### Rahul Kirtikar
-├─ :bowtie: <em>Professional Overview</em>  
+├─ :bowtie: <b>Professional Overview</b>  
 │ &#160; ├─ 🛌 <a href='http://www.sertasimmons.com'>Serta Simmons Bedding</a>  
-│ &#160; │ &#160; ├─ 🔮 Director of Sleep Analytics & Integration  
-│ &#160; │ &#160; ├─ 🔭 Director of Mechanical Design  
-│ &#160; │ &#160; ├─ 📊 Lead Engineer - Mechanical Design  
-│ &#160; │ &#160; └─ 👨‍🔧 Corporate Mechanical Engineer  
+│ &#160; │ &#160; ├─ 🔮 Director of Sleep Analytics & Integration, <em>Alpha Innovation</em>  
+│ &#160; │ &#160; ├─ 🔭 Director of Mechanical Design, <em>Advanced Technologies</em>  
+│ &#160; │ &#160; ├─ 📊 Lead Engineer - Mechanical Design, <em>Advanced Technologies</em>  
+│ &#160; │ &#160; └─ 👨‍🔧 Corporate Mechanical Engineer, <em>Process Engineering</em>  
 │ &#160; └─ 🚗 <a href='http://www.toyotageorgetown.com/'>Toyota Engineering & Manufacturing (TEMA)</a>  
 │ &#160; &#160; &#160; └─ 📐 Vehicle Production Engineer - Undergraduate Co-Op  
-├─ 🎓 <em>Education</em>  
+├─ 🎓 <b>Education</b>  
 │ &#160; └─ 🐝 <a href='http://www.gatech.edu'>Georgia Institute of Technology</a>  
 │ &#160; &#160; &#160; ├─ 💻 MS Analytics  
 │ &#160; &#160; &#160; └─ 🛠️ BS Mechanical Engineering  
-└─ 📫 <em>Contact</em>  
+└─ 📫 <b>Contact</b>  
 &#160; &#160; &#160; └─ 🔗 [LinkedIn](http://www.linkedin.com/in/rkirtikar)  
 
 <!--
