@@ -1,18 +1,18 @@
 ### Rahul Kirtikar
-├─ :bowtie: Professional Overview  
-│ ├─ 🛌 <a href='http://www.sertasimmons.com'>Serta Simmons Bedding</a>  
-│ │ ├─ 🔮 Director of Sleep Analytics & Integration  
-│ │ ├─ 📊 Director of Mechanical Design  
-│ │ ├─ 📐 Lead Engineer - Mechanical Design  
-│ │ ├─ 🔩 Corporate Mechanical Engineer  
-│ ├─ 🚗 <a href='http://www.toyotageorgetown.com/'>Toyota Engineering & Manufacturing (TEMA)</a>  
-│ │ ├─ 📏 Vehicle Production Engineer - Undergraduate Co-Op  
-├─ 📚 Education  
-│ ├─ 🐝 <a href='http://www.gatech.edu'>Georgia Institute of Technology</a>  
-│ │ ├─ MS Analytics  
-│ │ ├─ BS Mechanical Engineering  
-├─ Contact  
-│ ├─ 🔗 [LinkedIn](http://www.linkedin.com/in/rkirtikar)  
+├─ :bowtie: <em>Professional Overview</em>  
+│ &#160; ├─ 🛌 <a href='http://www.sertasimmons.com'>Serta Simmons Bedding</a>  
+│ &#160; │ &#160; ├─ 🔮 Director of Sleep Analytics & Integration  
+│ &#160; │ &#160; ├─ 🔭 Director of Mechanical Design  
+│ &#160; │ &#160; ├─ 📊 Lead Engineer - Mechanical Design  
+│ &#160; │ &#160; └─ 👨‍🔧 Corporate Mechanical Engineer  
+│ &#160; └─ 🚗 <a href='http://www.toyotageorgetown.com/'>Toyota Engineering & Manufacturing (TEMA)</a>  
+│ &#160; &#160; &#160; └─ 📐 Vehicle Production Engineer - Undergraduate Co-Op  
+├─ 🎓 <em>Education</em>  
+│ &#160; └─ 🐝 <a href='http://www.gatech.edu'>Georgia Institute of Technology</a>  
+│ &#160; &#160; &#160; ├─ 💻 MS Analytics  
+│ &#160; &#160; &#160; └─ 🛠️ BS Mechanical Engineering  
+└─ 📫 <em>Contact</em>  
+&#160; &#160; &#160; └─ 🔗 [LinkedIn](http://www.linkedin.com/in/rkirtikar)  
 
 <!--
 ### Hi there 👋
