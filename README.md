@@ -6,11 +6,11 @@
 │ &#160; │ &#160; ├─ 📊 Lead Engineer - Mechanical Design, <em>Advanced Technologies</em>  
 │ &#160; │ &#160; └─ 👨‍🔧 Corporate Mechanical Engineer, <em>Process Engineering</em>  
 │ &#160; └─ 🚗 <a href='http://www.toyotageorgetown.com/'>Toyota Engineering & Manufacturing (TEMA)</a>  
-│ &#160; &#160; &#160; └─ 📐 Vehicle Production Engineer - Undergraduate Co-Op  
+│ &#160; &#160; &#160; &#160; └─ 📐 Vehicle Production Engineer - Undergraduate Co-Op  
 ├─ 🎓 <b>Education</b>  
 │ &#160; └─ 🐝 <a href='http://www.gatech.edu'>Georgia Institute of Technology</a>  
-│ &#160; &#160; &#160; ├─ 💻 MS Analytics  
-│ &#160; &#160; &#160; └─ 🛠️ BS Mechanical Engineering  
+│ &#160; &#160; &#160; &#160; ├─ 💻 MS Analytics  
+│ &#160; &#160; &#160; &#160; └─ 🛠️ BS Mechanical Engineering  
 └─ 📫 <b>Contact</b>  
 &#160; &#160; &#160; └─ 🔗 [LinkedIn](http://www.linkedin.com/in/rkirtikar)  
 
